@@ -1,0 +1,2 @@
+# root
+minecraft server
